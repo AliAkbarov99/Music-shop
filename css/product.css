@@ -1,0 +1,42 @@
+*{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.container{
+    width: 30%;
+    margin: auto;
+}
+
+.center{
+    text-align: center;
+}
+
+h1{
+    color: red;
+}
+
+
+.navigation a{
+    margin-right: 10px;
+}
+
+
+h2{
+    color: rgb(202, 29, 202);
+}
+
+#main{
+    display: flex;
+    flex-direction: column;
+}
+
+#main div{
+    width: 100%;
+    height: 500px;
+    margin-top: 50px;
+}
+div img{
+    width: 90%;
+    height: 90%;
+    
+}
